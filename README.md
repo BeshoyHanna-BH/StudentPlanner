@@ -118,4 +118,8 @@ Saved data includes:
 - `Python 3.11+` if running from source
 - Windows environment for the included `.exe`
 
+## 👨‍💻 Author
 
+**Beshoy**  
+ Python Developer | Passionate about building practical tools  
+📌 [GitHub Profile](https://github.com/BeshoyHanna-BH)
