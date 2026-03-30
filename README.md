@@ -118,14 +118,4 @@ Saved data includes:
 - `Python 3.11+` if running from source
 - Windows environment for the included `.exe`
 
-## Author Notes
 
-This project is suitable for:
-- a student portfolio
-- a Python GUI project showcase
-- a CV or LinkedIn project entry
-
-If you want, I can also create:
-- a more polished GitHub-style README with screenshots
-- a CV-ready project section
-- a professional project description for LinkedIn
